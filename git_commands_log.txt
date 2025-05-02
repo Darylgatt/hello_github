@@ -1,0 +1,23 @@
+
+git init - Initialiser un dépôt Git
+git add - Ajouter des fichiers à l'index
+git commit - Enregistrer les modifications
+git remote - Gérer les dépôts distants
+git push - Envoyer les modifications vers un dépôt distant
+gcc - Compiler des fichiers C
+  554  ls
+  555  exit
+  556  cat hello_github/script.txt
+  557  cat git_commands_log.txt
+  558  nano git_commands_log.txt
+  559  nano git_commands_log.txt
+  560  nano
+  561  ls
+  562  cd git_commands_log.txt
+  563  ls
+  564  nano git_commands_log.txt
+  565  touch rm git_commands_log.txt
+  566  ls
+  567  ls
+  568  touch git_commands_log.txt
+  569  nano git_commands_log.txt
